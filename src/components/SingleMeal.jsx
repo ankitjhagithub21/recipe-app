@@ -85,7 +85,7 @@ const SingleMeal = () => {
 
                         </div>
                     </div>
-                    <div className='lg:w-1/2 w-full px-5'>
+                    <div className='lg:w-1/2 w-full px-2'>
                         <h2 className='font-bold text-2xl my-4'>Ingredient:</h2>
                         <div className='flex flex-wrap'>
                             {Object.keys(meal)
